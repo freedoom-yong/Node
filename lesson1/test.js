@@ -1,0 +1,1 @@
+console.log("%s : %d","hello world",25)
